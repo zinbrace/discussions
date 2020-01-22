@@ -1,6 +1,3 @@
-img{
-    height: 150px;
-}
 h1{
     text-align: center;
     color: black;
@@ -11,5 +8,4 @@ h2{
 }
 ul{
     list-style-image: url('../images/block_m.png');
- 
   }
