@@ -1,0 +1,15 @@
+img{
+    height: 150px;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+h2{
+    color: navy;
+    text-shadow: 2px 2px 7px #060CCE;
+}
+ul{
+    list-style-image: url('../images/blockM.png');
+ 
+  }
